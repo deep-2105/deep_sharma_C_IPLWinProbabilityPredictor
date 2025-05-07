@@ -34,7 +34,3 @@ This project leverages historical IPL data, player statistics, and live match co
 - **Flask / Streamlit** for web app deployment
 - **Matplotlib / Seaborn / Plotly** for visualization
 - **Cloud/Heroku** for hosting (optional)
-
-## 📂 Project Structure
-
-
